@@ -1,6 +1,6 @@
 # High School Python
 
-A teaching material for an introduction to Python 
+A teaching material for an introduction to data analysis with Python 
 
 Live: <https://gofhilman.github.io/high-school-python/>
 
