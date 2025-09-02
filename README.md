@@ -1,3 +1,9 @@
-# high-school-python
+# High School Python
 
-Just me triying to teach high scholers about python
+A teaching material for an introduction to Python 
+
+Live: <https://gofhilman.github.io/high-school-python/>
+
+## Features
+
+- A teaching material with concepts and problems+solutions
